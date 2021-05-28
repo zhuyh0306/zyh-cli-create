@@ -1,0 +1,22 @@
+{
+  "name": "zyh-cli-create",
+  "version": "1.0.0",
+  "description": "a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuyh0306/zyh-cli-create.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuyh0306/zyh-cli-create/issues"
+  },
+  "homepage": "https://github.com/zhuyh0306/zyh-cli-create#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
