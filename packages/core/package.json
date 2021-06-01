@@ -1,13 +1,13 @@
 {
   "name": "@zyh-cli-create/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "zhuyh",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
   "bin": {
-    "zyh-cli-create":"bin/index.js"
+    "zyh-cli-create": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zyh-cli-create/utils":"@zyh-cli-create/utils"
+    "@zyh-cli-create/utils": "@zyh-cli-create/utils"
   },
   "bugs": {
     "url": "https://github.com/zhuyh0306/zyh-cli-create/issues"
