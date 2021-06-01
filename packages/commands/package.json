@@ -17,10 +17,14 @@
     "type": "git",
     "url": "git+https://github.com/zhuyh0306/zyh-cli-create.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/zhuyh0306/zyh-cli-create/issues"
-  }
+  },
+  "gitHead": "77754e9919dc484cb17df188abf40e37bc93a7d0"
 }

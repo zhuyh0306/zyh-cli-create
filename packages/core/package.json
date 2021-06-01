@@ -28,5 +28,9 @@
   },
   "bugs": {
     "url": "https://github.com/zhuyh0306/zyh-cli-create/issues"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "77754e9919dc484cb17df188abf40e37bc93a7d0"
 }
