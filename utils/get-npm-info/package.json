@@ -1,14 +1,11 @@
 {
-  "name": "@zyh-cli-create/core",
+  "name": "@zyh-cli-create/get-npm-info",
   "version": "1.0.2",
   "description": "> TODO: description",
   "author": "zhuyh",
-  "homepage": "",
+  "homepage": "https://github.com/zhuyh0306/zyh-cli-create/tree/main/core/get-npm-info#readme",
   "license": "ISC",
-  "main": "lib/core.js",
-  "bin": {
-    "zyh-cli-create": "bin/index.js"
-  },
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -23,14 +20,12 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "dependencies": {
-    "@zyh-cli-create/utils": "@zyh-cli-create/utils"
-  },
   "bugs": {
     "url": "https://github.com/zhuyh0306/zyh-cli-create/issues"
   },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "77754e9919dc484cb17df188abf40e37bc93a7d0"
+  "dependencies": {
+    "axios": "^0.21.1",
+    "semver": "^7.3.5",
+    "url-join": "^4.0.1"
+  }
 }

@@ -1,0 +1,15 @@
+0 silly argv { _: [ 'add' ],
+0 silly argv   globs: [ 'core/cli' ],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0':
+0 silly argv    '..\\..\\..\\..\\..\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js',
+0 silly argv   pkg: 'semver' }
+1 notice cli v4.0.0
+2 verbose rootPath C:\Users\YongHuiZhu\Desktop\慕课网\zyh-cli-create
+3 error FetchError: request to https://registry.npmjs.org/semver failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+3 error     at ClientRequest.req.on.er (C:\Users\YongHuiZhu\AppData\Roaming\npm\node_modules\lerna\node_modules\minipass-fetch\lib\index.js:97:14)
+3 error     at ClientRequest.emit (events.js:182:13)
+3 error     at TLSSocket.socketErrorListener (_http_client.js:391:9)
+3 error     at TLSSocket.emit (events.js:187:15)
+3 error     at emitErrorNT (internal/streams/destroy.js:82:8)
+3 error     at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)

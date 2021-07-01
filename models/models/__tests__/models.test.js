@@ -1,6 +1,6 @@
 'use strict';
 
-const models = require('..');
+const models = require('../../models');
 
 describe('models', () => {
     it('needs tests');

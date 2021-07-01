@@ -2,7 +2,7 @@
   "name": "@zyh-cli-create/models",
   "version": "1.0.2",
   "description": "> TODO: description",
-  "author": "zhuyh <zhuyhd@cn.ibm.com>",
+  "author": "zhuyh",
   "homepage": "https://github.com/zhuyh0306/zyh-cli-create/tree/main/core/models#readme",
   "license": "ISC",
   "main": "lib/models.js",
